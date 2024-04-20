@@ -9,4 +9,5 @@ int main() {
    cout<<"Ramura!";
    scrie();
    scrie();
+   cout<<"Mihaita!!!!";
 }
