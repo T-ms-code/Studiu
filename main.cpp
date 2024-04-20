@@ -8,4 +8,5 @@ int main() {
    cout<<"Branch main"<<endl;
    cout<<"Ramura!";
    scrie();
+   scrie();
 }
